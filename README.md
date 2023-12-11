@@ -1,6 +1,6 @@
 # Blockchain and DeFi Articles Collection
 
-Welcome to my collection of articles dedicated to exploring the nuances of blockchain technology, Decentralized Finance (DeFi), NFTs, and the evolving landscape of digital assets and privacy. This repository hosts a carefully curated selection of writings that delve into the technological advancements, challenges, and the future potential of these rapidly developing fields.
+Welcome to my collection of articles dedicated to exploring the nuances of blockchain technology, Decentralized Finance (DeFi), NFTs, and the evolving landscape of digital assets and privacy. This repository hosts a carefully curated selection of writings that delve into the technological advancements, challenges, and the future potential of Blockchain and DeFi.
 
 ## Table of Contents
 
